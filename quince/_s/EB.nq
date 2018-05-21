@@ -1,5 +1,1 @@
-﻿<http://datadock.io/LODWorkshopMay18/delegateX/id/resource/exercise2.csv/id/patty-jenkins> <http://datadock.io/LODWorkshopMay18/delegateX/id/dataset/exercise2.csv#type> <http://schema.org/Person> <http://datadock.io/LODWorkshopMay18/delegateX/id/dataset/exercise2.csv>.
-<http://datadock.io/LODWorkshopMay18/delegateX/id/resource/exercise2.csv/id/patty-jenkins> <http://datadock.io/LODWorkshopMay18/delegateX/id/definition/id> "patty-jenkins"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/LODWorkshopMay18/delegateX/id/dataset/exercise2.csv>.
-<http://datadock.io/LODWorkshopMay18/delegateX/id/resource/exercise2.csv/id/patty-jenkins> <http://schema.org/birthDate> "24/7/1971"^^<http://www.w3.org/2001/XMLSchema#date> <http://datadock.io/LODWorkshopMay18/delegateX/id/dataset/exercise2.csv>.
-<http://datadock.io/LODWorkshopMay18/delegateX/id/resource/exercise2.csv/id/patty-jenkins> <http://schema.org/gender> "Female"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/LODWorkshopMay18/delegateX/id/dataset/exercise2.csv>.
-<http://datadock.io/LODWorkshopMay18/delegateX/id/resource/exercise2.csv/id/patty-jenkins> <http://schema.org/name> "Patty Jenkins"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/LODWorkshopMay18/delegateX/id/dataset/exercise2.csv>.
+﻿

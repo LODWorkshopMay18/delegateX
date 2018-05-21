@@ -1,2 +1,1 @@
-﻿<http://datadock.io/LODWorkshopMay18/delegateX/id/dataset/exercise2.csv> <http://rdfs.org/ns/void#exampleResource> <http://datadock.io/LODWorkshopMay18/delegateX/id/resource/exercise2.csv/id/dee-rees> <http://datadock.io/LODWorkshopMay18/delegateX/id/dataset/exercise2.csv/metadata>.
-<http://datadock.io/LODWorkshopMay18/delegateX/id/resource/exercise2.csv/id/patty-jenkins> <http://schema.org/name> "Patty Jenkins"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/LODWorkshopMay18/delegateX/id/dataset/exercise2.csv>.
+﻿

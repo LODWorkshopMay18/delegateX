@@ -1,5 +1,1 @@
-﻿<http://datadock.io/LODWorkshopMay18/delegateX/id/resource/exercise2.csv/id/jennifer-yuh-nelson> <http://datadock.io/LODWorkshopMay18/delegateX/id/dataset/exercise2.csv#type> <http://schema.org/Person> <http://datadock.io/LODWorkshopMay18/delegateX/id/dataset/exercise2.csv>.
-<http://datadock.io/LODWorkshopMay18/delegateX/id/resource/exercise2.csv/id/jennifer-yuh-nelson> <http://datadock.io/LODWorkshopMay18/delegateX/id/definition/id> "jennifer-yuh-nelson"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/LODWorkshopMay18/delegateX/id/dataset/exercise2.csv>.
-<http://datadock.io/LODWorkshopMay18/delegateX/id/resource/exercise2.csv/id/jennifer-yuh-nelson> <http://schema.org/birthDate> "7/5/1972"^^<http://www.w3.org/2001/XMLSchema#date> <http://datadock.io/LODWorkshopMay18/delegateX/id/dataset/exercise2.csv>.
-<http://datadock.io/LODWorkshopMay18/delegateX/id/resource/exercise2.csv/id/jennifer-yuh-nelson> <http://schema.org/gender> "Female"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/LODWorkshopMay18/delegateX/id/dataset/exercise2.csv>.
-<http://datadock.io/LODWorkshopMay18/delegateX/id/resource/exercise2.csv/id/jennifer-yuh-nelson> <http://schema.org/name> "Jennifer Yuh Nelson"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/LODWorkshopMay18/delegateX/id/dataset/exercise2.csv>.
+﻿

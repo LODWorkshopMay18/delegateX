@@ -1,5 +1,1 @@
-﻿<http://datadock.io/LODWorkshopMay18/delegateX/id/resource/exercise2.csv/id/john-mctiernan> <http://datadock.io/LODWorkshopMay18/delegateX/id/dataset/exercise2.csv#type> <http://schema.org/Person> <http://datadock.io/LODWorkshopMay18/delegateX/id/dataset/exercise2.csv>.
-<http://datadock.io/LODWorkshopMay18/delegateX/id/resource/exercise2.csv/id/john-mctiernan> <http://datadock.io/LODWorkshopMay18/delegateX/id/definition/id> "john-mctiernan"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/LODWorkshopMay18/delegateX/id/dataset/exercise2.csv>.
-<http://datadock.io/LODWorkshopMay18/delegateX/id/resource/exercise2.csv/id/john-mctiernan> <http://schema.org/birthDate> "8/1/1951"^^<http://www.w3.org/2001/XMLSchema#date> <http://datadock.io/LODWorkshopMay18/delegateX/id/dataset/exercise2.csv>.
-<http://datadock.io/LODWorkshopMay18/delegateX/id/resource/exercise2.csv/id/john-mctiernan> <http://schema.org/gender> "Male"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/LODWorkshopMay18/delegateX/id/dataset/exercise2.csv>.
-<http://datadock.io/LODWorkshopMay18/delegateX/id/resource/exercise2.csv/id/john-mctiernan> <http://schema.org/name> "John McTiernan"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/LODWorkshopMay18/delegateX/id/dataset/exercise2.csv>.
+﻿
