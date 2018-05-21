@@ -1,1 +1,1 @@
-﻿
+﻿<http://schema.org/name> <http://www.w3.org/2000/01/rdf-schema#label> "Name"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/LODWorkshopMay18/delegateX/definitions>.

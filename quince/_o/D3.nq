@@ -1,1 +1,2 @@
-﻿
+﻿<http://datadock.io/LODWorkshopMay18/delegateX/id/dataset/exercise2.csv> <http://purl.org/dc/terms/modified> "2018-05-21"^^<http://www.w3.org/2001/XMLSchema#date> <http://datadock.io/LODWorkshopMay18/delegateX/id/dataset/exercise2.csv/metadata>.
+<http://datadock.io/LODWorkshopMay18/delegateX/id/resource/exercise2.csv/id/steven-spielberg> <http://schema.org/birthDate> "18/12/1946"^^<http://www.w3.org/2001/XMLSchema#date> <http://datadock.io/LODWorkshopMay18/delegateX/id/dataset/exercise2.csv>.

@@ -1,1 +1,2 @@
-﻿
+﻿<http://datadock.io/LODWorkshopMay18/delegateX/id/resource/exercise2.csv/id/frank-darabont> <http://schema.org/birthDate> "28/1/1959"^^<http://www.w3.org/2001/XMLSchema#date> <http://datadock.io/LODWorkshopMay18/delegateX/id/dataset/exercise2.csv>.
+<http://datadock.io/LODWorkshopMay18/delegateX/id/resource/exercise2.csv/id/ridley-scott> <http://datadock.io/LODWorkshopMay18/delegateX/id/definition/id> "ridley-scott"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/LODWorkshopMay18/delegateX/id/dataset/exercise2.csv>.

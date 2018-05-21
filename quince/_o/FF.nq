@@ -1,1 +1,2 @@
-﻿
+﻿<http://datadock.io/LODWorkshopMay18/delegateX/id/dataset/exercise2.csv> <http://rdfs.org/ns/void#dataDump> <https://github.com/LODWorkshopMay18/delegateX/releases/download/exercise2_csv_20180521_143038/exercise2_csv_20180521_143038.nt.gz> <http://datadock.io/LODWorkshopMay18/delegateX/id/dataset/exercise2.csv/metadata>.
+<http://schema.org/name> <http://www.w3.org/2000/01/rdf-schema#label> "Name"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/LODWorkshopMay18/delegateX/definitions>.
