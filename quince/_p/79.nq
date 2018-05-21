@@ -1,0 +1,6 @@
+﻿<http://datadock.io/LODWorkshopMay18/delegateX/id/definition/email> <http://www.w3.org/2000/01/rdf-schema#label> "email"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/LODWorkshopMay18/delegateX/definitions>.
+<http://datadock.io/LODWorkshopMay18/delegateX/id/definition/first_name> <http://www.w3.org/2000/01/rdf-schema#label> "first_name"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/LODWorkshopMay18/delegateX/definitions>.
+<http://datadock.io/LODWorkshopMay18/delegateX/id/definition/gender> <http://www.w3.org/2000/01/rdf-schema#label> "gender"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/LODWorkshopMay18/delegateX/definitions>.
+<http://datadock.io/LODWorkshopMay18/delegateX/id/definition/id> <http://www.w3.org/2000/01/rdf-schema#label> "id"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/LODWorkshopMay18/delegateX/definitions>.
+<http://datadock.io/LODWorkshopMay18/delegateX/id/definition/ip_address> <http://www.w3.org/2000/01/rdf-schema#label> "ip_address"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/LODWorkshopMay18/delegateX/definitions>.
+<http://datadock.io/LODWorkshopMay18/delegateX/id/definition/last_name> <http://www.w3.org/2000/01/rdf-schema#label> "last_name"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/LODWorkshopMay18/delegateX/definitions>.
