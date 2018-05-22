@@ -1,1 +1,2 @@
 ﻿<http://datadock.io/LODWorkshopMay18/delegateX/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdfs.org/ns/void#Dataset> <http://datadock.io/LODWorkshopMay18/delegateX/metadata>.
+<http://datadock.io/LODWorkshopMay18/delegateX/id/dataset/exercise1.csv> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdfs.org/ns/void#Dataset> <http://datadock.io/LODWorkshopMay18/delegateX/id/dataset/exercise1.csv/metadata>.

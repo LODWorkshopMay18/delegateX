@@ -1,1 +1,2 @@
-﻿
+﻿<http://datadock.io/LODWorkshopMay18/delegateX/id/dataset/exercise1.csv> <http://rdfs.org/ns/void#dataDump> <http://datadock.io/LODWorkshopMay18/delegateX/csv/exercise1.csv/exercise1.csv> <http://datadock.io/LODWorkshopMay18/delegateX/id/dataset/exercise1.csv/metadata>.
+<http://datadock.io/LODWorkshopMay18/delegateX/id/dataset/exercise1.csv> <http://rdfs.org/ns/void#dataDump> <https://github.com/LODWorkshopMay18/delegateX/releases/download/exercise1_csv_20180522_134049/exercise1_csv_20180522_134049.nt.gz> <http://datadock.io/LODWorkshopMay18/delegateX/id/dataset/exercise1.csv/metadata>.
