@@ -1,1 +1,2 @@
-﻿
+﻿<http://datadock.io/LODWorkshopMay18/delegateX/id/dataset/moviesX.csv> <http://www.w3.org/ns/dcat#keyword> "sample"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/LODWorkshopMay18/delegateX/id/dataset/moviesX.csv/metadata>.
+<http://datadock.io/LODWorkshopMay18/delegateX/id/resource/moviesX.csv/id/tt1620680> <http://datadock.io/LODWorkshopMay18/delegateX/id/dataset/moviesX.csv#imdb_link> <http://imdb.com/title/tt1620680> <http://datadock.io/LODWorkshopMay18/delegateX/id/dataset/moviesX.csv>.

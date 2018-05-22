@@ -1,1 +1,2 @@
-﻿
+﻿<http://datadock.io/LODWorkshopMay18/delegateX/id/resource/moviesX.csv/id/tt0434409> <http://datadock.io/LODWorkshopMay18/delegateX/id/definition/id> "tt0434409"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/LODWorkshopMay18/delegateX/id/dataset/moviesX.csv>.
+<http://datadock.io/LODWorkshopMay18/delegateX/id/resource/moviesX.csv/id/tt0468569> <http://schema.org/name> "The Dark Knight "^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/LODWorkshopMay18/delegateX/id/dataset/moviesX.csv>.

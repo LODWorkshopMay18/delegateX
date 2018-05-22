@@ -1,1 +1,3 @@
-﻿
+﻿<http://datadock.io/LODWorkshopMay18/delegateX/id/definition/year> <http://www.w3.org/2000/01/rdf-schema#label> "Year"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/LODWorkshopMay18/delegateX/definitions>.
+<http://datadock.io/LODWorkshopMay18/delegateX/id/resource/moviesX.csv/id/tt0110912> <http://datadock.io/LODWorkshopMay18/delegateX/id/definition/id> "tt0110912"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/LODWorkshopMay18/delegateX/id/dataset/moviesX.csv>.
+<http://datadock.io/LODWorkshopMay18/delegateX/id/resource/moviesX.csv/id/tt0110912> <http://schema.org/name> "Pulp Fiction "^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/LODWorkshopMay18/delegateX/id/dataset/moviesX.csv>.

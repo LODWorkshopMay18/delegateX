@@ -1,2 +1,3 @@
 ﻿<http://datadock.io/LODWorkshopMay18/delegateX/id/resource/exercise2.csv/id/ivan-reitman> <http://datadock.io/LODWorkshopMay18/delegateX/id/definition/id> "ivan-reitman"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/LODWorkshopMay18/delegateX/id/dataset/exercise2.csv>.
 <http://datadock.io/LODWorkshopMay18/delegateX/id/resource/exercise2.csv/id/jason-reitman> <http://schema.org/name> "Jason Reitman"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/LODWorkshopMay18/delegateX/id/dataset/exercise2.csv>.
+<http://datadock.io/LODWorkshopMay18/delegateX/id/resource/moviesX.csv/id/tt1375666> <http://schema.org/duration> "148"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/LODWorkshopMay18/delegateX/id/dataset/moviesX.csv>.

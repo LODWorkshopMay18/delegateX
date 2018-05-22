@@ -1,1 +1,2 @@
 ﻿<http://datadock.io/LODWorkshopMay18/delegateX/id/dataset/exercise1.csv> <http://purl.org/dc/terms/description> "Agriculture gender test data"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/LODWorkshopMay18/delegateX/id/dataset/exercise1.csv/metadata>.
+<http://datadock.io/LODWorkshopMay18/delegateX/id/dataset/moviesX.csv> <http://purl.org/dc/terms/description> "Sample data exercise 3"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/LODWorkshopMay18/delegateX/id/dataset/moviesX.csv/metadata>.

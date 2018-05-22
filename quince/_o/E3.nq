@@ -1,1 +1,3 @@
-﻿
+﻿<http://datadock.io/LODWorkshopMay18/delegateX/id/resource/moviesX.csv/id/tt0095016> <http://datadock.io/LODWorkshopMay18/delegateX/id/definition/year> "1988"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/LODWorkshopMay18/delegateX/id/dataset/moviesX.csv>.
+<http://datadock.io/LODWorkshopMay18/delegateX/id/resource/moviesX.csv/id/tt0098635> <http://schema.org/duration> "96"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/LODWorkshopMay18/delegateX/id/dataset/moviesX.csv>.
+<http://datadock.io/LODWorkshopMay18/delegateX/id/resource/moviesX.csv/id/tt0467406> <http://schema.org/duration> "96"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/LODWorkshopMay18/delegateX/id/dataset/moviesX.csv>.

@@ -1,1 +1,2 @@
 ﻿<http://datadock.io/LODWorkshopMay18/delegateX/id/definition/email> <http://www.w3.org/2000/01/rdf-schema#label> "email"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/LODWorkshopMay18/delegateX/definitions>.
+<http://datadock.io/LODWorkshopMay18/delegateX/id/resource/moviesX.csv/id/tt0266697> <http://datadock.io/LODWorkshopMay18/delegateX/id/dataset/moviesX.csv#imdb_link> <http://imdb.com/title/tt0266697> <http://datadock.io/LODWorkshopMay18/delegateX/id/dataset/moviesX.csv>.

@@ -1,1 +1,2 @@
-﻿
+﻿<http://datadock.io/LODWorkshopMay18/delegateX/id/resource/moviesX.csv/id/tt0087332> <http://datadock.io/LODWorkshopMay18/delegateX/id/definition/id> "tt0087332"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/LODWorkshopMay18/delegateX/id/dataset/moviesX.csv>.
+<http://datadock.io/LODWorkshopMay18/delegateX/id/resource/moviesX.csv/id/tt0098635> <http://datadock.io/LODWorkshopMay18/delegateX/id/definition/year> "1989"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/LODWorkshopMay18/delegateX/id/dataset/moviesX.csv>.

@@ -1,1 +1,2 @@
-﻿
+﻿<http://datadock.io/LODWorkshopMay18/delegateX/id/dataset/moviesX.csv> <http://rdfs.org/ns/void#exampleResource> <http://datadock.io/LODWorkshopMay18/delegateX/id/resource/moviesX.csv/id/tt1620680> <http://datadock.io/LODWorkshopMay18/delegateX/id/dataset/moviesX.csv/metadata>.
+<http://datadock.io/LODWorkshopMay18/delegateX/id/resource/moviesX.csv/id/tt0078748> <http://datadock.io/LODWorkshopMay18/delegateX/id/definition/year> "1979"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/LODWorkshopMay18/delegateX/id/dataset/moviesX.csv>.

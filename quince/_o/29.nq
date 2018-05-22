@@ -1,1 +1,2 @@
 ﻿<http://datadock.io/LODWorkshopMay18/delegateX/id/resource/exercise2.csv/id/james-mcteigue> <http://datadock.io/LODWorkshopMay18/delegateX/id/dataset/exercise2.csv#dbpedia> <http://dbpedia.org/resource/James_McTeigue> <http://datadock.io/LODWorkshopMay18/delegateX/id/dataset/exercise2.csv>.
+<http://datadock.io/LODWorkshopMay18/delegateX/id/resource/moviesX.csv/id/tt0073195> <http://schema.org/duration> "124"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/LODWorkshopMay18/delegateX/id/dataset/moviesX.csv>.

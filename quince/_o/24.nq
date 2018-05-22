@@ -1,1 +1,2 @@
 ﻿<http://datadock.io/LODWorkshopMay18/delegateX/id/resource/exercise2.csv/id/steven-spielberg> <http://datadock.io/LODWorkshopMay18/delegateX/id/dataset/exercise2.csv#dbpedia> <http://dbpedia.org/resource/Steven_Spielberg> <http://datadock.io/LODWorkshopMay18/delegateX/id/dataset/exercise2.csv>.
+<http://datadock.io/LODWorkshopMay18/delegateX/id/resource/moviesX.csv/id/tt0468569> <http://datadock.io/LODWorkshopMay18/delegateX/id/definition/id> "tt0468569"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/LODWorkshopMay18/delegateX/id/dataset/moviesX.csv>.

@@ -1,1 +1,2 @@
 ﻿<http://datadock.io/LODWorkshopMay18/delegateX/id/resource/exercise2.csv/id/dee-rees> <http://schema.org/name> "Dee Rees"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/LODWorkshopMay18/delegateX/id/dataset/exercise2.csv>.
+<http://datadock.io/LODWorkshopMay18/delegateX/id/resource/moviesX.csv/id/tt0451279> <http://datadock.io/LODWorkshopMay18/delegateX/id/dataset/moviesX.csv#imdb_link> <http://imdb.com/title/tt0451279> <http://datadock.io/LODWorkshopMay18/delegateX/id/dataset/moviesX.csv>.

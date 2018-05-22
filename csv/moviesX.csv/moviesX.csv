@@ -1,0 +1,26 @@
+﻿ID,Title,Year,Duration (hours),Duration Minutes,Duration,IMDB Link,Director,Type
+tt0111161,The Shawshank Redemption ,1994,2,22,142,http://imdb.com/title/tt0111161,http://datadock.io/LODWorkshopMay18/delegateX/id/resource/exercise2.csv/id/frank-darabont,http://schema.org/Movie
+tt0068646,The Godfather,1972,2,55,175,http://imdb.com/title/tt0068646,http://datadock.io/LODWorkshopMay18/delegateX/id/resource/exercise2.csv/id/francis-ford-coppola,http://schema.org/Movie
+tt0468569,The Dark Knight ,2008,2,32,152,http://imdb.com/title/tt0468569,http://datadock.io/LODWorkshopMay18/delegateX/id/resource/exercise2.csv/id/christopher-nolan,http://schema.org/Movie
+tt0110912,Pulp Fiction ,1994,2,34,154,http://imdb.com/title/tt0110912,http://datadock.io/LODWorkshopMay18/delegateX/id/resource/exercise2.csv/id/quentin-tarantino,http://schema.org/Movie
+tt0073195,Jaws,1975,2,4,124,http://imdb.com/title/tt0073195,http://datadock.io/LODWorkshopMay18/delegateX/id/resource/exercise2.csv/id/stephen-spielberg,http://schema.org/Movie
+tt0103074,Thelma & Louise,1991,2,10,130,http://imdb.com/title/tt0103074,http://datadock.io/LODWorkshopMay18/delegateX/id/resource/exercise2.csv/id/ridley-scott,http://schema.org/Movie
+tt0266697,Kill Bill: Vol. 1,2003,1,51,111,http://imdb.com/title/tt0266697,http://datadock.io/LODWorkshopMay18/delegateX/id/resource/exercise2.csv/id/quentin-tarantino,http://schema.org/Movie
+tt1620680,A Wrinkle in Time,2018,1,49,109,http://imdb.com/title/tt1620680,http://datadock.io/LODWorkshopMay18/delegateX/id/resource/exercise2.csv/id/ava-duvernay,http://schema.org/Movie
+tt1233334,Pariah,2011,1,26,86,http://imdb.com/title/tt1233334,http://datadock.io/LODWorkshopMay18/delegateX/id/resource/exercise2.csv/id/dee-rees,http://schema.org/Movie
+tt0108160,Sleepless In Seattle,1993,1,45,105,http://imdb.com/title/tt0108160,http://datadock.io/LODWorkshopMay18/delegateX/id/resource/exercise2.csv/id/nora-ephron,http://schema.org/Movie
+tt1302011,Kung Fu Panda 2,2011,1,30,90,http://imdb.com/title/tt1302011,http://datadock.io/LODWorkshopMay18/delegateX/id/resource/exercise2.csv/id/jennifer-yuh-nelson,http://schema.org/Movie
+tt0451279,Wonder Woman,2017,2,21,141,http://imdb.com/title/tt0451279,http://datadock.io/LODWorkshopMay18/delegateX/id/resource/exercise2.csv/id/patty-jenkins,http://schema.org/Movie
+tt0340855,Monster,2003,1,49,109,http://imdb.com/title/tt0340855,http://datadock.io/LODWorkshopMay18/delegateX/id/resource/exercise2.csv/id/patty-jenkins,http://schema.org/Movie
+tt0098635,When Harry Met Sally,1989,1,36,96,http://imdb.com/title/tt0098635,http://datadock.io/LODWorkshopMay18/delegateX/id/resource/exercise2.csv/id/nora-ephron,http://schema.org/Movie
+tt0078748,Alien,1979,1,56,116,http://imdb.com/title/tt0078748,http://datadock.io/LODWorkshopMay18/delegateX/id/resource/exercise2.csv/id/ridley-scott,http://schema.org/Movie
+tt0120689,The Green Mile,1999,3,9,189,http://imdb.com/title/tt0120689,http://datadock.io/LODWorkshopMay18/delegateX/id/resource/exercise2.csv/id/frank-darabont,http://schema.org/Movie
+tt1375666,Inception,2010,2,28,148,http://imdb.com/title/tt1375666,http://datadock.io/LODWorkshopMay18/delegateX/id/resource/exercise2.csv/id/christopher-nolan,http://schema.org/Movie
+tt0851578,Paprika,2006,1,30,90,http://imdb.com/title/tt0851578,http://datadock.io/LODWorkshopMay18/delegateX/id/resource/exercise2.csv/id/satishi-kon,http://schema.org/Movie
+tt0087332,Ghostbusters,1984,1,45,105,http://imdb.com/title/tt0087332,http://datadock.io/LODWorkshopMay18/delegateX/id/resource/exercise2.csv/id/ivan-reitman,http://schema.org/Movie
+tt0076759,Star Wars IV - A New Hope,1977,2,1,121,http://imdb.com/title/tt0076759,http://datadock.io/LODWorkshopMay18/delegateX/id/resource/exercise2.csv/id/george-lucas,http://schema.org/Movie
+tt0088247,The Terminator,1984,1,47,107,http://imdb.com/title/tt0088247,http://datadock.io/LODWorkshopMay18/delegateX/id/resource/exercise2.csv/id/james-cameron,http://schema.org/Movie
+tt0499549,Avatar,2009,2,42,162,http://imdb.com/title/tt0499549,http://datadock.io/LODWorkshopMay18/delegateX/id/resource/exercise2.csv/id/james-cameron,http://schema.org/Movie
+tt0095016,Die Hard,1988,2,12,132,http://imdb.com/title/tt0095016,http://datadock.io/LODWorkshopMay18/delegateX/id/resource/exercise2.csv/id/john-mctiernan,http://schema.org/Movie
+tt0434409,V for Vendetta,2005,2,12,132,http://imdb.com/title/tt0434409,http://datadock.io/LODWorkshopMay18/delegateX/id/resource/exercise2.csv/id/james-mcteigue,http://schema.org/Movie
+tt0467406,Juno,2007,1,36,96,http://imdb.com/title/tt0467406,http://datadock.io/LODWorkshopMay18/delegateX/id/resource/exercise2.csv/id/jason-reitman,http://schema.org/Movie
