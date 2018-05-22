@@ -1,1 +1,2 @@
 ﻿<http://datadock.io/LODWorkshopMay18/delegateX/id/dataset/exercise1.csv> <http://rdfs.org/ns/void#triples> "0"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/LODWorkshopMay18/delegateX/id/dataset/exercise1.csv/metadata>.
+<http://datadock.io/LODWorkshopMay18/delegateX/id/dataset/exercise2.csv> <http://rdfs.org/ns/void#triples> "108"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/LODWorkshopMay18/delegateX/id/dataset/exercise2.csv/metadata>.

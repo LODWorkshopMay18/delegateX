@@ -1,1 +1,2 @@
-﻿
+﻿<http://datadock.io/LODWorkshopMay18/delegateX/id/dataset/exercise2.csv> <http://rdfs.org/ns/void#exampleResource> <http://datadock.io/LODWorkshopMay18/delegateX/id/resource/exercise2.csv/id/jennifer-yuh-nelson> <http://datadock.io/LODWorkshopMay18/delegateX/id/dataset/exercise2.csv/metadata>.
+<http://datadock.io/LODWorkshopMay18/delegateX/id/resource/exercise2.csv/id/quentin-tarantino> <http://schema.org/birthDate> "27/03/1963"^^<http://www.w3.org/2001/XMLSchema#date> <http://datadock.io/LODWorkshopMay18/delegateX/id/dataset/exercise2.csv>.

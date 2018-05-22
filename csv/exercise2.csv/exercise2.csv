@@ -1,0 +1,19 @@
+﻿ID,Name,DOB,Gender,DBPedia,Type
+ridley-scott,Ridley Scott,30/11/1937,Male,http://dbpedia.org/resource/Ridley_Scott,http://schema.org/Person
+quentin-tarantino,Quentin Tarantino,27/03/1963,Male,http://dbpedia.org/resource/Quentin_Tarantino,http://schema.org/Person
+frank-darabont,Frank Darabont,28/01/1959,Male,http://dbpedia.org/resource/Frank_Darabont,http://schema.org/Person
+francis-ford-coppola,Francis Ford Coppola,07/04/1939,Male,http://dbpedia.org/resource/Francis_Ford_Coppola,http://schema.org/Person
+christopher-nolan,Christopher Nolan,30/07/1970,Male,http://dbpedia.org/resource/Christopher_Nolan,http://schema.org/Person
+steven-spielberg,Steven Spielberg,18/12/1946,Male,http://dbpedia.org/resource/Steven_Spielberg,http://schema.org/Person
+ava-duvernay,Ava DuVernay,24/08/1972,Female,http://dbpedia.org/resource/Ava_DuVernay,http://schema.org/Person
+dee-rees,Dee Rees,07/02/1977,Female,http://dbpedia.org/resource/Dee_Rees,http://schema.org/Person
+nora-ephron,Nora Ephron,19/05/1941,Female,http://dbpedia.org/resource/Nora_Ephron,http://schema.org/Person
+jennifer-yuh-nelson,Jennifer Yuh Nelson,07/05/1972,Female,http://dbpedia.org/resource/Jennifer_Yuh_Nelson,http://schema.org/Person
+patty-jenkins,Patty Jenkins,24/07/1971,Female,http://dbpedia.org/resource/Patty_Jenkins,http://schema.org/Person
+satoshi-kon,Satoshi Kon,12/10/1963,Male,http://dbpedia.org/resource/Satoshi_Kon,http://schema.org/Person
+ivan-reitman,Ivan Reitman,27/10/1946,Male,http://dbpedia.org/resource/Ivan_Reitman,http://schema.org/Person
+george-lucas,George Lucas,14/05/1944,Male,http://dbpedia.org/resource/George_Lucas,http://schema.org/Person
+james-cameron,James Cameron,16/08/1964,Male,http://dbpedia.org/resource/James_Cameron,http://schema.org/Person
+john-mctiernan,John McTiernan,08/01/1951,Male,http://dbpedia.org/resource/John_McTiernan,http://schema.org/Person
+james-mcteigue,James McTeigue,29/12/1967,Male,http://dbpedia.org/resource/James_McTeigue,http://schema.org/Person
+jason-reitman,Jason Reitman,19/10/1977,Male,http://dbpedia.org/resource/Jason_Reitman,http://schema.org/Person
